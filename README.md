@@ -4,7 +4,7 @@
 
 > ¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?
 
-Para ello, harás un análisis correlacional completo sobre un nuevo dataset en español.
+Para ello, realice un análisis correlacional completo sobre un nuevo dataset en español.
 
 ## Objetivos de aprendizaje del proyecto
 Al finalizar este proyecto, demostré mis habilidades para:
